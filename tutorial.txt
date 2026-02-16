@@ -25,6 +25,8 @@ git commit -m "Initialize DVC"
 Step B: Data ko DVC ke hawale karna
 Ab hum file ko DVC mein add karenge.
 
+dvc add data/large_dataset.csv
+
 =========================================================
 
 Kya hua? * DVC ne asli file ko .gitignore mein daal diya (taake Git usay touch na kare).
